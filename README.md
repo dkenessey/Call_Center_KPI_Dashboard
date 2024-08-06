@@ -18,6 +18,7 @@ Tableau - data visualization
 - The top three agents with the highest resolution rates were Martha, Stewart, and Jim, while those with the lowest resolution rates were Diane, Joe, and Dan. <br>
 
 <h1 style="font-size:24px;"> <b> 4. Recommendations </b> </h1>
-- On Mondays, Tuesdays, and Thursdays, when the highest call volumes are received, ensure that agents with fast response rates and high resolution rates (e.g., Becky and Stewart) are working to effectively manage the increased workload. <br>
-- Overall, Sundays have the lowest average satisfaction and resolution ratings of all weekdays. To improve these ratings, ensure that high performers (e.g., Martha and Stewart) are working on Sundays. <br>
-- Pair high performers (e.g., Becky and Stewart) with lower performers (e.g., Dan and Joe) to provide one-on-one training on improving call resolution effectiveness. <br>
+- <b>Staffing Adjustments:</b> On Mondays, Tuesdays, and Thursdays, when the highest call volumes are received, increase staffing to effectively manage the increased workload. <br>
+- <b>Improving Performance:</b> Overall, Sundays have the lowest average satisfaction and resolution ratings of all days. To improve these ratings, incentivize work on Sundays for that high performers (e.g., Martha and Stewart). <br>
+- <b>Mentorship Program Development:</b> Pair high performers (e.g., Becky and Stewart) with lower performers (e.g., Dan and Joe) to provide one-on-one training and mentorship on improving call resolution effectiveness. <br>
+- <b>Training and Monitoring:</b> Monitor and review unresolved calls to identify patterns in the issues that go unresolved. Once these patterns are identified, implement specialized training to address these issues, ultimately improving resolution rates. <br>

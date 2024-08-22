@@ -7,7 +7,7 @@ The Customer Experience Team of NexWave Communications aims to enhance customer 
 The call center data is shared via an .xlsx file. The dataset contains 5000 rows and 10 columns (call id, agent, date, time, topic, answered, resolved, average talk duration, and satisfaction rating). The dataset was provided by Alex Freberg through Analyst Builder's Data Visualization in Tabealu module.
 
 <h1 style="font-size:24px;"> <b> 3. Software used </b> </h1>
-Tableau 
+Tableau == 2024.2.0
 
 <h1 style="font-size:24px;"> <b> 4. Key Findings </b> </h1>
 

@@ -1,7 +1,7 @@
 <h1 style="font-size:36px;"> <div align="center"> <b> Call Center KPI Dashboard </b> </div> </h1>
 
-<h1 style="font-size:24px;"> <b> 1. Project Description </b> </h1>
-This project aims to provide insights into the performance of a call center during the most recent month of operation. 
+<h1 style="font-size:24px;"> <b> 1. Project Description & Business Problem </b> </h1>
+The Customer Experience Team of NexWave Communications aims to enhance customer satisfaction by analyzing key performance indicators (KPIs) at a call center. The goal is to understand and improve call resolution rates, agent performance, and overall customer satisfaction. By identifying areas for operational efficiency and service quality improvements, the team will prioritize strategies to optimize call center performance.
 
 <h1 style="font-size:24px;"> <b> 2. Dataset </b> </h1>
 The call center data is shared via an .xlsx file. The dataset contains 5000 rows and 10 columns (call id, agent, date, time, topic, answered, resolved, average talk duration, and satisfaction rating). The dataset was provided by Alex Freberg through Analyst Builder's Data Visualization in Tabealu module.
